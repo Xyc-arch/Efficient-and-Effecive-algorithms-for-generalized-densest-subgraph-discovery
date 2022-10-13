@@ -8,11 +8,7 @@ This is the code for experiments on the paper *Efficient and Effective Algorithm
 ## Run algorithms
  
 ### Installing
-Copy the project using the following command.
- 
-```
-git clone https://github.com/Xyc-arch/Efficient-and-Effecive-algorithms-for-generalized-densest-subgraph-discovery.git
-```
+Use git to clone the repo.
  
 ### Data preparation
 You can download datasets mentioned in our paper. Their links are also provided. Or you can find a dataset by yourself. We also provide multiple functions to help you preprocess the dataset so that its format will align with our implementations.
