@@ -3,7 +3,7 @@
 
 # Densest subgraphs discovery
  
-This is the code for experiments on the paper *Efficient and Effective Algorithms for Generalized Densest Subgraph Discovery* and another fast algorithm for DalkS devised by us. Experiments on different kinds of graphs are performed on different cpp files. The file __experiment.cpp__ is for original density; __experiment2.cpp__ is for weighted density; __experiment3.cpp__ is for denominator weighted density. In each of the three mentioned file, functions __berkleyexp2__, __berkleyexp3__, __soda22exp2__, __soda22exp 
+This is the code for experiments on the paper *Efficient and Effective Algorithms for Generalized Densest Subgraph Discovery*. Experiments on different kinds of graphs are performed on different cpp files. The file __experiment.cpp__ is for original density; __experiment2.cpp__ is for weighted density; __experiment3.cpp__ is for denominator weighted density. In each of the three mentioned file, functions __berkleyexp2__, __berkleyexp3__, __soda22exp2__, __soda22exp3__, __soda22exp4__ correspond to __cCoreExact__, __FlowExact__, __cCoreApp__, __cCoreApp*__, __FlowApp*__ and __FlowApp__ respectively.
  
 ## Getting Started
  
