@@ -1,9 +1,9 @@
 # Efficient-and-Effecive-algorithms-for-generalized-densest-subgraph-discovery
 
 
-# Project Title
+# Densest subgraphs discovery
  
-One Paragraph of project description goes here
+This is the code for experiments on the paper *Efficient and Effective Algorithms for Generalized Densest Subgraph Discovery* and another fast algorithm for DalkS devised by us. Experiments on different kinds of graphs are performed on different cpp files. The file __experiment.cpp__ is for original density; __experiment2.cpp__ is for weighted density; __experiment3.cpp__ is for denominator weighted density. In each of the three mentioned file, functions __berkleyexp2__, __berkleyexp3__, __soda22exp2__, __soda22exp 
  
 ## Getting Started
  
