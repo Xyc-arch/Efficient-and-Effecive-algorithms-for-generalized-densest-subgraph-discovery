@@ -1,3 +1,5 @@
+Please vist our new github repo: **https://github.com/Xyc-arch/DS_DalkS.git**
+
 # Efficient-and-Effecive-algorithms-for-generalized-densest-subgraph-discovery
 
 
